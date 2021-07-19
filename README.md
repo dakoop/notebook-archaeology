@@ -6,3 +6,7 @@
 
 ## Data:
 * [Sampled Notebooks & Session Histories](https://zenodo.org/record/5113980#.YPWoPS1h1yo): The 100,000 notebooks sampled from GitHub and the 646 history.sqlite files containing 86,711 sessions, also downloaded from GitHub. Note that outputs have been stripped from notebooks, and some notebooks and session histories are  invalid.
+
+## Code:
+The code is a collection of Jupyter notebooks, some of which extract and compute intermediate data products which are used in further analysis, and a final notebook which generates plots from the paper. Please contact us for more information on extraction and evaluation.
+* [Plots Notebook](paper-plots.ipynb)
